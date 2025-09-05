@@ -1,4 +1,4 @@
-# Brandora-Assignent
+# Brandora-Assignment
 Assignment Code Submission for Brandora
 Tech Stack Used - HTML, CSS and JS
 Setup Instructions:-
